@@ -1,0 +1,13 @@
+{
+  "name": "rest-test-mocha",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "chakram": "1.5.x",
+    "mocha": "4.0.x"
+  },
+  "scripts": {
+    "test": "mocha --recursive spec"
+  }
+}
